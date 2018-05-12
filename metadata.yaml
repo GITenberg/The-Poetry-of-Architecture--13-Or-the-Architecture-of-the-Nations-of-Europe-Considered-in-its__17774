@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17774#The-Poetry-of-Architecture--13-Or-the-Architecture-of-the-Nations-of-Europe-Considered-in-its_
 gutenberg_bookshelf: Architecture
 gutenberg_issued: '2006-02-16'
 gutenberg_type: Text
